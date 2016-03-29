@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Tengo que estar atenta", 
+  "language": "spa_CO", 
+  "title": "Los chicos de la esquina", 
+  "primary_category": "3a9ec7e44376487dae852de2e4dc9ee7", 
+  "created_at": "2014-12-11T09:42:00+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-12-11T09:42:00+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "*Todos los d\u00edas, las chicas enfrentan situaciones peligrosas en sus comunidades. Pueden ser matones en la escuela, o burlas y acoso en el mercado o en el autob\u00fas. Esta es la historia de una chica.*\r\n\r\nMi nombre es Faith. Volv\u00eda a mi casa luego de haber ido a buscar agua. Era tarde por la noche, y estaba sola. Hab\u00eda tres chicos adolescentes en la esquina, afuera de un bar. Sab\u00eda que me traer\u00edan problemas. Segu\u00ed caminando como si nada. No quer\u00eda que se dieran cuenta de que estaba asustada. Entonces, cruc\u00e9 la calle para evitarlos. Era tarde para dar la vuelta.\r\n\r\nMe estaban esperando. Cruzaron la calle y comenzaron a seguirme. Mi coraz\u00f3n lat\u00eda fuerte. Ten\u00eda mucho miedo. Comenzaron a silbarme y a decirme cosas. Me invitaron a ir al bar con ellos. \r\n\r\nNo hab\u00eda nadie a quien pudiera pedirle ayuda. Empec\u00e9 a caminar m\u00e1s r\u00e1pido, pero uno de ellos me agarr\u00f3 del brazo por atr\u00e1s. \r\nCasi me muero. Saqu\u00e9 su brazo de encima y sal\u00ed corriendo. Mientras doblaba, pude ver una tienda abierta. Corr\u00ed tan r\u00e1pido como pude y entr\u00e9. Ah\u00ed, ya me sent\u00ed mejor. No estaba sola, hab\u00eda un vendedor. \u00c9l llam\u00f3 a mi hermano y vino a buscarme. \r\n\r\nDesde ahora, tratar\u00e9 de volver a casa por otro lugar y con una amiga que me acompa\u00f1e. No s\u00e9 qu\u00e9 podr\u00eda haber pasado, pero estaba muy asustada. Con una amiga, hubiera estado m\u00e1s segura.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "Faith", 
+  "uuid": "af7dfc4e6daa429c910d7c5d1634407f"
+}
