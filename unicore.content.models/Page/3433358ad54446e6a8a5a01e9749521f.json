@@ -6,15 +6,17 @@
   "primary_category": "3a9ec7e44376487dae852de2e4dc9ee7", 
   "created_at": "2014-12-11T05:34:19+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-11T05:34:19+00:00", 
+  "modified_at": "2016-03-29T10:21:11.429317+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "cbfbdaaa501f437da33498380e6bf344"
+  ], 
   "id": null, 
   "content": "*Muchas chicas y mujeres en la India deben quedarse en sus hogares, porque est\u00e1n m\u00e1s protegidas contra el acoso que sufren en las calles. Pero m\u00e1s y m\u00e1s adolescentes est\u00e1n tomando coraje para cambiar esta situaci\u00f3n. Esta es la historia de una de ellas. * \r\n\r\nMi nombre es Meenu y vivo en Delhi, India, con mi mam\u00e1 y cinco hermanos y hermanas. Mi pap\u00e1 falleci\u00f3 cuando yo ten\u00eda cinco a\u00f1os, as\u00ed que mi mam\u00e1 nos cri\u00f3 sola, con lo poco que ganaba. \r\n\r\nMi mam\u00e1 no fue a la escuela, y su familia la oblig\u00f3 a casarse a los 15 a\u00f1os. Siempre repet\u00eda que deb\u00edamos ir a la escuela para que nuestras vidas fueran mejores que la de ella. Por eso, nos ayud\u00f3 a seguir estudiando.\r\n\r\nMis t\u00edos cre\u00edan que mi mam\u00e1 perd\u00eda el tiempo, que deb\u00edamos casarnos para que otra persona se hiciera cargo de nosotras. Pero yo le hice caso a mi mam\u00e1 y fui a una escuela muy concurrida cerca de mi barrio. \r\n\r\nMi mam\u00e1 no quer\u00eda que llamara la atenci\u00f3n de los chicos. Dec\u00eda que podr\u00eda ser peligroso. Si la gente hablaba de que los chicos se interesaban en m\u00ed, o ment\u00edan sobre eso, avergonzar\u00eda a la familia, o, incluso, podr\u00edan ser violentos conmigo. Lo he visto por m\u00ed misma. \r\n\r\nCuando termin\u00e9 la escuela, me qued\u00e9 en mi casa. Conoc\u00eda a muchos chicos que dec\u00edan que me cuidar\u00edan. Sin embargo, pensar en salir, cerca de ellos, me daba mucho miedo. Me sent\u00eda m\u00e1s segura en casa, donde pod\u00eda so\u00f1ar. \r\n\r\nNo saldr\u00eda de mi casa para buscar trabajo. No ten\u00eda esperanzas, me sent\u00eda in\u00fatil y ten\u00eda miedo de que mis sue\u00f1os no se cumplieran. \r\n\r\nUn d\u00eda, mi madre me envi\u00f3 a hacer un mandado. Mientras iba caminando, me encontr\u00e9 con una mujer. Me invit\u00f3 a una clase de computaci\u00f3n solo para chicas. Me sent\u00ed asustada, porque nunca hab\u00eda usado una computadora. Tambi\u00e9n me daba miedo ir al centro de computaci\u00f3n sola, as\u00ed que fui con una amiga. Mi mam\u00e1 me dijo: \"Es hora de ser valiente, Meenu\". \r\n\r\nAprend\u00ed sobre computadoras, los derechos de las ni\u00f1as y adolescentes, y sobre el trabajo para la comunidad, y me hizo sentir muy bien y fuerte. Cuando termin\u00e9 mi capacitaci\u00f3n, me convert\u00ed en voluntaria en el Centro de Enfoque Feminista sobre Tecnolog\u00eda para ense\u00f1ar a otras adolescentes. Me sent\u00ed preparada para postularme a un trabajo de venta telef\u00f3nica y, con mucho orgullo, llegu\u00e9 a casa y le cont\u00e9 a mi familia que \u00a1lo hab\u00eda obtenido! \r\n\r\nMi madre no ve\u00eda la hora de que mi abuelo supiera que \u00a1su nieta iba a traer dinero a la familia! Hasta hice suficiente dinero como para pagar la boda de mi hermana.\r\n\r\nAprend\u00ed que no soy inferior a nadie. No debo tener miedo ni esconderme de los chicos. Tuve el coraje para defenderme y apoyar a las dem\u00e1s adolescentes de Delhi. Todas nuestras voces juntas exigir\u00e1n un cambio, y hasta que Delhi se convierta en un lugar m\u00e1s seguro para las adolescentes, no dejaremos de acompa\u00f1arnos.\r\n\r\nLee m\u00e1s sobre la historia de Meenu en [grassrootsgirls.tumblr.com][1]. \r\n\r\n\r\n  [1]: http://grassrootsgirls.tumblr.com", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 11, 
+  "position": 32, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Meenu", 
   "uuid": "3433358ad54446e6a8a5a01e9749521f"
