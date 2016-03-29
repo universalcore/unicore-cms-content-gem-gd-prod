@@ -6,15 +6,17 @@
   "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
   "created_at": "2014-12-11T09:45:29+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-11T09:45:29+00:00", 
+  "modified_at": "2016-03-29T10:21:09.181122+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "af7dfc4e6daa429c910d7c5d1634407f"
+  ], 
   "id": null, 
   "content": "**MANTENTE SEGURA DE ESTA MANERA**\r\n\r\n - TEN CLARIDAD: hay personas y situaciones peligrosas en todas partes. No debes sentir  miedo todo el tiempo  pero debes saber que tu comunidad a veces no  es un lugar completamente seguro.\r\n - S\u00c9 CONSCIENTE: debes reconocer aquellas  personas y lugares que te ponen nerviosa o que te asustan para  planear  c\u00f3mo evitarlos. Esto te ayudar\u00e1 a protegerte  y evitar que te suceda algo malo.\r\n - EVAL\u00daA: si alguien se te acerca y comienza a decirte cosas feas, decide qu\u00e9 hacer y decir. \r\n - S\u00c9 FIRME: \u00a1di NO! Dilo fuerte, claro y con frecuencia si alguien te est\u00e1 acosando.\r\n - ACT\u00daA: no temas detener el abuso o el acoso. Tomar una  acci\u00f3n puede significar desde salir corriendo hasta golpear a alguien en defensa propia. Si te encuentras en un lugar lleno de gente, confrontar a alguien es mucho m\u00e1s seguro. Cuando est\u00e9s sola, piensa maneras de escapar la situaci\u00f3n.\r\n - EVITA: trata de evitar a las personas que te hacen sentir inc\u00f3moda. No vayas a  ciertos lugares que sepas son peligrosos. Evitar a estas personas o situaciones te mantendr\u00e1n  segura. Tambi\u00e9n es \u00fatil evitar viajar sola o de noche.\r\n - HAZ UN PLAN: busca a un adulto confiable a quien puedas acudir si algo sale mal. Aseg\u00farate de saber d\u00f3nde encontrar a esta persona o c\u00f3mo contactarla cuando necesites un amigo. Conversa con tus dem\u00e1s amigos sobre encontrar personas en quien puedes confiar y mantenerte a salvo.\r\n\r\n**Todos los d\u00edas, las chicas enfrentan situaciones peligrosas en sus propias comunidades. Podr\u00edan ser matones en la escuela, o burlas y acoso en el mercado o en el autob\u00fas. Esta es la historia de Faith.**", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 5, 
+  "position": 69, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "stay-safe", 
   "uuid": "11e368fea7624c598bd9eacb4990fb28"
