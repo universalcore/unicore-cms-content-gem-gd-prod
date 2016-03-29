@@ -6,15 +6,17 @@
   "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
   "created_at": "2014-12-11T05:38:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-11T05:38:14+00:00", 
+  "modified_at": "2016-03-29T10:21:10.880180+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "3433358ad54446e6a8a5a01e9749521f"
+  ], 
   "id": null, 
   "content": "**MANTENTE SEGURA DE ESTA MANERA**\r\n\r\nDesafortunadamente, el mundo no siempre es seguro para las ni\u00f1as y j\u00f3venes. Pueden sufrir acoso sexual en el hogar, en la escuela, en el mercado, en el trabajo o en cualquier otra parte. Debes prepararte para estas situaciones.\r\n\r\nAqu\u00ed te damos algunos consejos que puedes SEGUIR para mantenerte a salvo:\r\n\r\n - TEN ESTO EN CLARO: hay personas y situaciones peligrosas en todas partes. No debes sentir miedo todo el tiempo, pero debes saber que tu comunidad a veces no es un lugar completamente seguro.\r\n - S\u00c9 CONSCIENTE: debes reconocer qu\u00e9 personas y lugares te ponen nerviosa o te asustan para planear c\u00f3mo evitarlos. Esto te ayudar\u00e1 a protegerte y evitar que te suceda algo malo.\r\n - EVAL\u00daA: si alguien se te acerca y comienza a decirte cosas feas, decide qu\u00e9 hacer y decir. Puedes decirle a esa persona que se detenga, alejarte r\u00e1pidamente o pedir ayuda a otras personas. \r\n - S\u00c9 FIRME: \u00a1di NO! Dilo fuerte, claro y muchas veces si alguien te est\u00e1 acosando. \r\n - ACT\u00daA: no temas detener el abuso o el acoso. Tomar una acci\u00f3n puede significar desde salir corriendo hasta golpear a alguien en defensa propia. Si te encuentras en un lugar lleno de gente, confrontar a alguien es mucho m\u00e1s seguro. Cuando est\u00e9s sola, piensa maneras de escapar de la situaci\u00f3n.\r\n - EVITA: trata de evitar a las personas que te hacen sentir inc\u00f3moda. No vayas a ciertos lugares que sepas que son peligrosos. Evitar a estas personas o situaciones te mantendr\u00e1 segura. Tambi\u00e9n es bueno evitar viajar sola o de noche. \r\n - HAZ UN PLAN: busca a un adulto confiable a quien puedas acudir si algo sale mal. Aseg\u00farate de saber d\u00f3nde encontrar a esta persona o c\u00f3mo contactarla cuando necesites un amigo. Conversa con tus dem\u00e1s amigos sobre encontrar personas en quien puedes confiar y mantenerte a salvo. \r\n\r\n**Muchas chicas y mujeres en la India deben quedarse en sus hogares, donde est\u00e1n m\u00e1s protegidas contra el acoso que sufren en las calles. Pero m\u00e1s y m\u00e1s adolescentes est\u00e1n tomando coraje para cambiar esta situaci\u00f3n. Lee la historia de una de ellas.**", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 27, 
+  "position": 58, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "keep_yourself_safe", 
   "uuid": "cbfbdaaa501f437da33498380e6bf344"
